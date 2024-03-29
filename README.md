@@ -29,3 +29,7 @@ Notes
 
     Ensure that you have a valid API key from Validin to access the API endpoints used by this tool.
     This tool relies on the Validin API for retrieving domain and IP-related information. Any changes to the Validin API may affect the functionality of this tool.
+
+Documentation
+
+For more information on the Validin API and its capabilities, please refer to the Validin Platform User Guide @https://app.validin.com/validin_platform_user_guide_v0.4.pdf
