@@ -14,7 +14,7 @@ Setup
 
 Usage
 
-    Run the script: python domain_ip_tool.py.
+    Run the script: python pyvalidin.py.
     Enter a domain name or an IP address when prompted.
     Choose an operation from the provided options based on the type of input:
         For domain names: select from DNS history, domain PTR records, OSINT history, general OSINT context, or domain pivots.
